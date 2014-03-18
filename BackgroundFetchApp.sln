@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackgroundFetchApp", "BackgroundFetchApp.csproj", "{E21C3A31-1FB2-4D5C-B70E-6C550BAD4B55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E21C3A31-1FB2-4D5C-B70E-6C550BAD4B55}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{E21C3A31-1FB2-4D5C-B70E-6C550BAD4B55}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{E21C3A31-1FB2-4D5C-B70E-6C550BAD4B55}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{E21C3A31-1FB2-4D5C-B70E-6C550BAD4B55}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{E21C3A31-1FB2-4D5C-B70E-6C550BAD4B55}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{E21C3A31-1FB2-4D5C-B70E-6C550BAD4B55}.Debug|iPhone.Build.0 = Debug|iPhone
+		{E21C3A31-1FB2-4D5C-B70E-6C550BAD4B55}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{E21C3A31-1FB2-4D5C-B70E-6C550BAD4B55}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{E21C3A31-1FB2-4D5C-B70E-6C550BAD4B55}.Release|iPhone.ActiveCfg = Release|iPhone
+		{E21C3A31-1FB2-4D5C-B70E-6C550BAD4B55}.Release|iPhone.Build.0 = Release|iPhone
+		{E21C3A31-1FB2-4D5C-B70E-6C550BAD4B55}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{E21C3A31-1FB2-4D5C-B70E-6C550BAD4B55}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = BackgroundFetchApp.csproj
+	EndGlobalSection
+EndGlobal
